@@ -3308,7 +3308,7 @@
         "link": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{PZH Groen}"
           },
           "text-decoration": {
             "$type": "textDecoration",
@@ -3327,13 +3327,13 @@
           "current": {
             "font-weight": {
               "$type": "fontWeights",
-              "$value": "{basis.text.font-weight.default}"
+              "$value": "{basis.text.font-weight.bold}"
             }
           },
           "disabled": {
             "color": {
               "$type": "color",
-              "$value": "{basis.color.disabled.color-subtle}"
+              "$value": "{PZH Donkerblauw}"
             }
           },
           "focus": {
@@ -3353,7 +3353,7 @@
           "hover": {
             "color": {
               "$type": "color",
-              "$value": "{basis.color.action-2.color-hover}"
+              "$value": "{PZH Blauw}"
             },
             "text-decoration": {
               "$type": "textDecoration",
@@ -3364,7 +3364,7 @@
         "separator": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.default.color-subtle}"
+            "$value": "{PZH Koel Grijs}"
           },
           "icon": {
             "size": {
@@ -5983,12 +5983,12 @@
       "link": {
         "color": {
           "$type": "color",
-          "$value": "{PZH Appelgroen}",
+          "$value": "{PZH Groen}",
           "$description": "[code-only]"
         },
         "text-decoration-color": {
           "$type": "color",
-          "$value": "{PZH Appelgroen}"
+          "$value": "{PZH Groen}"
         },
         "text-decoration-line": {
           "$type": "textDecoration",
