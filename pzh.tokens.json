@@ -128,9 +128,13 @@
       "$type": "fontFamilies",
       "$value": "Test Karbon"
     },
-    "Background": {
+    "Background PZH Grijs": {
       "$type": "color",
       "$value": "#F1F1F1"
+    },
+    "Background PZH Blauw": {
+      "$type": "color",
+      "$value": "#b3d4fc"
     }
   },
   "common": {
@@ -3737,7 +3741,7 @@
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{Background}"
+              "$value": "{Background PZH Grijs}"
             },
             "border-color": {
               "$type": "color",
@@ -3779,7 +3783,7 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{Background}"
+              "$value": "{Background PZH Grijs}"
             },
             "border-color": {
               "$type": "color",
