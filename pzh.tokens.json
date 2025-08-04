@@ -10064,10 +10064,14 @@
         "marker": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.default.color-document}"
+            "$value": "{PZH Groen}"
           }
         }
       }
+    },
+    "weight": {
+      "$type": "fontWeights",
+      "$value": "{basis.heading.font-weight}"
     }
   },
   "components/root": {
