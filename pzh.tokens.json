@@ -5122,7 +5122,7 @@
         "invalid": {
           "border-inline-start-color": {
             "$type": "color",
-            "$value": "{basis.color.negative.border-default}"
+            "$value": "{PZH Donkerrood}"
           },
           "border-inline-start-width": {
             "$type": "dimension",
@@ -5151,7 +5151,7 @@
       "form-field-description": {
         "color": {
           "$type": "color",
-          "$value": "{basis.color.default.color-subtle}"
+          "$value": "{PZH Koel Grijs}"
         },
         "font-family": {
           "$type": "fontFamilies",
@@ -5233,7 +5233,7 @@
       "form-label": {
         "color": {
           "$type": "color",
-          "$value": "{basis.color.default.color-document}"
+          "$value": "{PZH Blauw}"
         },
         "font-size": {
           "$type": "fontSizes",
@@ -5283,7 +5283,7 @@
       "form-field-label": {
         "color": {
           "$type": "color",
-          "$value": "{basis.color.default.color-document}"
+          "$value": "{PZH Blauw}"
         },
         "column-gap": {
           "$type": "dimension",
