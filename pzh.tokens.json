@@ -127,6 +127,10 @@
     "Karbon": {
       "$type": "fontFamilies",
       "$value": "Test Karbon"
+    },
+    "Background": {
+      "$type": "color",
+      "$value": "#F1F1F1"
     }
   },
   "common": {
