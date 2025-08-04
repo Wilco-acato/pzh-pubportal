@@ -1,12 +1,141 @@
 {
-  "brand": {},
+  "brand": {
+    "PZH-Rood": {
+      "$type": "color",
+      "$value": "#D11F3D"
+    },
+    "PZH Geel": {
+      "$type": "color",
+      "$value": "#EFCC36"
+    },
+    "PZH Blauw": {
+      "$type": "color",
+      "$value": "#281F6B"
+    },
+    "PZH Roze": {
+      "$type": "color",
+      "$value": "#AA0067"
+    },
+    "PZH Oranje": {
+      "$type": "color",
+      "$value": "#FF6B02"
+    },
+    "PZH Appelgroen": {
+      "$type": "color",
+      "$value": "#76BC21"
+    },
+    "PZH Groen": {
+      "$type": "color",
+      "$value": "#00804D"
+    },
+    "PZH Paars": {
+      "$type": "color",
+      "$value": "#503D90"
+    },
+    "PZH Koel Grijs": {
+      "$type": "color",
+      "$value": "#838383"
+    },
+    "PZH Warm Grijs": {
+      "$type": "color",
+      "$value": "#847062"
+    },
+    "PZH Wit": {
+      "$type": "color",
+      "$value": "#FFF"
+    },
+    "PZH Lichtroze": {
+      "$type": "color",
+      "$value": "#d76AAC"
+    },
+    "PZH Lichtrood": {
+      "$type": "color",
+      "$value": "#EB7085"
+    },
+    "PZH Lichtoranje": {
+      "$type": "color",
+      "$value": "#FBA66A"
+    },
+    "PZH Lichtgeel": {
+      "$type": "color",
+      "$value": "#F1DB7E"
+    },
+    "PZH Licht Appelgroen": {
+      "$type": "color",
+      "$value": "#ADD57D"
+    },
+    "PZH Lichtgroen": {
+      "$type": "color",
+      "$value": "#61B375"
+    },
+    "PZH Lichtblauw": {
+      "$type": "color",
+      "$value": "#7BADDE"
+    },
+    "PZH Lichtpaars": {
+      "$type": "color",
+      "$value": "#9B99CC"
+    },
+    "PZH Licht Koel Grijs": {
+      "$type": "color",
+      "$value": "#BFBFBF"
+    },
+    "PZH Licht Warm Grijs": {
+      "$type": "color",
+      "$value": "#BEB1A7"
+    },
+    "PZH Donkerroze": {
+      "$type": "color",
+      "$value": "#750047"
+    },
+    "PZH Donkerrood": {
+      "$type": "color",
+      "$value": "#97162C"
+    },
+    "PZH Donkeroranje": {
+      "$type": "color",
+      "$value": "#B24A00"
+    },
+    "PZH Donkergeel": {
+      "$type": "color",
+      "$value": "#C6A410"
+    },
+    "PZH Donker Appelgroen": {
+      "$type": "color",
+      "$value": "#629623"
+    },
+    "PZH Donkergroen": {
+      "$type": "color",
+      "$value": "#004D2E"
+    },
+    "PZH Donkerblauw": {
+      "$type": "color",
+      "$value": "#16113B"
+    },
+    "PZH Donkerpaars": {
+      "$type": "color",
+      "$value": "#32265A"
+    },
+    "PZH Donker Koel Grijs": {
+      "$type": "color",
+      "$value": "#5C5C5C"
+    },
+    "PZH Donker Warm Grijs": {
+      "$type": "color",
+      "$value": "#584B41"
+    },
+    "Karbon": {
+      "$type": "fontFamilies",
+      "$value": "Test Karbon"
+    }
+  },
   "common": {
     "basis": {
       "text": {
         "font-family": {
           "default": {
             "$type": "fontFamilies",
-            "$value": "IBM Plex Sans, sans-serif"
+            "$value": "{Karbon}"
           },
           "monospace": {
             "$type": "fontFamilies",
@@ -186,15 +315,15 @@
           },
           "color-default": {
             "$type": "color",
-            "$value": "#1B59A4"
+            "$value": "{PZH Blauw}"
           },
           "color-hover": {
             "$type": "color",
-            "$value": "#04499A"
+            "$value": "{PZH Donkerblauw}"
           },
           "color-active": {
             "$type": "color",
-            "$value": "#003B81"
+            "$value": "{PZH Donkerblauw}"
           },
           "color-subtle": {
             "$type": "color",
@@ -3564,7 +3693,7 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{basis.color.action-1-inverse.bg-hover}"
+              "$value": "{PZH Donkerblauw}"
             },
             "border-color": {
               "$type": "color",
@@ -5854,12 +5983,12 @@
       "link": {
         "color": {
           "$type": "color",
-          "$value": "{basis.color.action-2.color-default}",
+          "$value": "{PZH Appelgroen}",
           "$description": "[code-only]"
         },
         "text-decoration-color": {
           "$type": "color",
-          "$value": "{basis.color.action-2.color-default}"
+          "$value": "{PZH Appelgroen}"
         },
         "text-decoration-line": {
           "$type": "textDecoration",
@@ -5878,7 +6007,7 @@
         "active": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-active}"
+            "$value": "{PZH Donkerblauw}"
           }
         },
         "current": {
@@ -5891,7 +6020,7 @@
         "disabled": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.disabled.color-subtle}"
+            "$value": "{PZH Koel Grijs}"
           },
           "cursor": {
             "$type": "other",
@@ -5902,7 +6031,7 @@
         "hover": {
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-hover}"
+            "$value": "{PZH Blauw}"
           },
           "text-decoration-line": {
             "$type": "textDecoration",
