@@ -6853,11 +6853,11 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{PZH Groen}"
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.text.font-weight.default}"
+            "$value": "{basis.text.font-weight.bold}"
           },
           "padding-block-end": {
             "$type": "dimension",
@@ -6927,11 +6927,11 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{basis.color.action-2.color-default}"
+            "$value": "{PZH Groen}"
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.text.font-weight.default}"
+            "$value": "{basis.text.font-weight.bold}"
           },
           "padding-block-end": {
             "$type": "dimension",
