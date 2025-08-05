@@ -6742,11 +6742,11 @@
       "number-badge": {
         "background-color": {
           "$type": "color",
-          "$value": "{basis.color.default.bg-default}"
+          "$value": "{PZH Blauw}"
         },
         "border-color": {
           "$type": "color",
-          "$value": "{basis.color.transparent}"
+          "$value": "{PZH Blauw}"
         },
         "border-radius": {
           "$type": "dimension",
@@ -6758,7 +6758,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{basis.color.default.color-default}"
+          "$value": "{PZH Wit}"
         },
         "font-family": {
           "$type": "fontFamilies",
