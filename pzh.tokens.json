@@ -6150,7 +6150,7 @@
       "link-list": {
         "font-weight": {
           "$type": "fontWeights",
-          "$value": "{basis.text.font-weight.default}"
+          "$value": "{font-medium}"
         },
         "row-gap": {
           "$type": "dimension",
@@ -10083,7 +10083,7 @@
     },
     "weight": {
       "$type": "fontWeights",
-      "$value": "{basis.heading.font-weight}"
+      "$value": "{font-medium}"
     }
   },
   "components/root": {
