@@ -4067,7 +4067,7 @@
         },
         "border-radius": {
           "$type": "dimension",
-          "$value": "0px"
+          "$value": "{basis.border-radius.sm}"
         },
         "border-width": {
           "$type": "dimension",
