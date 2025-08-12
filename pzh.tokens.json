@@ -130,11 +130,11 @@
     },
     "Background PZH Grijs": {
       "$type": "color",
-      "$value": "#F1F1F1"
+      "$value": "#F8F8F8"
     },
     "Background PZH Blauw": {
       "$type": "color",
-      "$value": "#E6EFF9"
+      "$value": "#F2F7FC"
     }
   },
   "common": {
