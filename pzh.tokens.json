@@ -5538,7 +5538,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.heading.font-weight}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -5570,7 +5570,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.heading.font-weight}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -5602,7 +5602,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.heading.font-weight}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -5634,7 +5634,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.heading.font-weight}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -5666,7 +5666,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.heading.font-weight}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -5698,7 +5698,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.heading.font-weight}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
