@@ -135,6 +135,10 @@
     "Background PZH Blauw": {
       "$type": "color",
       "$value": "#F2F7FC"
+    },
+    "font-medium": {
+      "$type": "fontWeights",
+      "$value": "Medium"
     }
   },
   "common": {
@@ -3650,7 +3654,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.text.font-weight.bold}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -3720,7 +3724,7 @@
           },
           "border-color": {
             "$type": "color",
-            "$value": "{PZH Lichtpaars}"
+            "$value": "{PZH Blauw}"
           },
           "color": {
             "$type": "color",
@@ -3732,7 +3736,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.text.font-weight.bold}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
@@ -3814,7 +3818,7 @@
           },
           "font-weight": {
             "$type": "fontWeights",
-            "$value": "{basis.text.font-weight.bold}"
+            "$value": "{font-medium}"
           },
           "line-height": {
             "$type": "lineHeights",
